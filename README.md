@@ -1,4 +1,4 @@
-# An Unofficial implementation of SegFormer with PyTorch
+# The Implementation of SegFormer with PyTorch
 
 
 ===
